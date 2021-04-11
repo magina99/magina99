@@ -1,4 +1,4 @@
-## Hi there, I'm [Diogo Magina](https://t03-magina.vigion.pt/)! <img align="left" alt="Diogo Magina | Email" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/pop_cat.gif" />
+## Hi there, I'm [Diogo Magina](https://t03-magina.vigion.pt/)! <img alt="Diogo Magina | Email" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/pop_cat.gif" />
 
 Mobile app developer and designer.</br>
 This is my work and my hobby.</br>
@@ -26,3 +26,5 @@ This is my work and my hobby.</br>
 <code><img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code><br>
 <sub>NOTE: The languages and tools meantioned here are a simple example of what I have used to develop projects. Skill level is not indicated here.</sub>
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=magina99&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Diogo Magina's github stats" />
