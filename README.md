@@ -8,7 +8,7 @@ This is my work and my hobby.</br>
 
 ### Reach out to me!
 <a href="https://t03-magina.vigion.pt/">
-  <img align="left" alt="Diogo Magina | Website" width="30px" src="https://t03-magina.vigion.pt/Portfolio_Data/images/magina_big.png" />
+  <img align="left" alt="Diogo Magina | Website" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/magina.png" />
 </a>
 <a href="https://twitter.com/magina_99">
   <img align="left" alt="Diogo Magina | Twitter" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/twitter.svg" />
