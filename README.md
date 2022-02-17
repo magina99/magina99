@@ -1,4 +1,4 @@
-## Hi there, I'm [Diogo Magina](https://t03-magina.vigion.pt/)! <img alt="Diogo Magina | Email" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/pop_cat.gif" />
+## Hi there, I'm [Diogo Magina](https://magina99.github.io)! <img alt="Diogo Magina | Email" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/pop_cat.gif" />
 
 Mobile app developer and designer.</br>
 This is my work and my hobby.</br>
@@ -7,7 +7,7 @@ This is my work and my hobby.</br>
 - 🌱I'm currently learning react
 
 ### Reach out to me!
-<a href="https://t03-magina.vigion.pt/">
+<a href="https://magina99.github.io">
   <img align="left" alt="Diogo Magina | Website" width="30px" src="https://raw.githubusercontent.com/magina99/magina99/master/assets/magina.png" />
 </a>
 <a href="https://twitter.com/magina_99">
